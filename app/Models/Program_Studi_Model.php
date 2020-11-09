@@ -1,7 +1,5 @@
 <?php namespace App\Models;
 
-use CodeIgniter\Database\ConnectionInterface;
-
 class Program_Studi_Model {
 
     private $table = 'prodi';
